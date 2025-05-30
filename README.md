@@ -18,9 +18,6 @@ The dataset includes the following fields:
 8)Resolution Time (Days) – Days taken to resolve complaint  
 9)Complaint Channel – How the complaint was received (e.g., Email, Call)
 
-Dashboard View
-![Dashboard](Dashboard.jpeg):https://github.com/Rajugudisela7075/Customers-Complaints/blob/main/Customers_complaints.jpeg
-
 ## 📈 Key Visuals in the Dashboard
 
 1) Card – Total Complaints -- Shows the overall number of complaints received 
